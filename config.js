@@ -1,5 +1,5 @@
 const config = {
-    database: '',
-    username: '',
-    password: ''
+    database: 'database',
+    username: 'username',
+    password: 'password'
 }
